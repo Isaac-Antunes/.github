@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://gina-intell.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-demo-dark.svg"><img src="./assets/pill-demo-light.svg" height="38" alt="Interactive Demo: gina-intell.vercel.app"></picture></a>
-<a href="https://isaacantunesfacha-dev.github.io/gina-crm/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-consulting-dark.svg"><img src="./assets/pill-consulting-light.svg" height="38" alt="Web & CRM Consulting"></picture></a>
+<a href="https://isaac-antunes.github.io/gina-crm/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-consulting-dark.svg"><img src="./assets/pill-consulting-light.svg" height="38" alt="Web & CRM Consulting"></picture></a>
 <a href="https://www.behance.net/gallery/256578105/Lifecycle-CRM-told-by-Gina"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-behance-dark.svg"><img src="./assets/pill-behance-light.svg" height="38" alt="Behance Case Study"></picture></a>
 <a href="https://www.linkedin.com/in/isaacnandes/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-linkedin-dark.svg"><img src="./assets/pill-linkedin-light.svg" height="38" alt="LinkedIn: in/isaacnandes"></picture></a>
 
